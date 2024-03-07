@@ -1,0 +1,3 @@
+#!/bin/bash
+python genconfig.py
+python cars.py -n SUZ -p 20 15 150 10 190 -u 0xbAf247B89Fd306FD50813F6b0b51354eccB0De9E -q 10 -c '0xd584142Da2e3630e7B0c417E65bED1D70A91490A' -k 0xf9f959418ecdb12387cbae5bead2118bd342166f234eb2b6f6b8009325026ad1

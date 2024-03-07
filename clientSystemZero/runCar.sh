@@ -1,0 +1,3 @@
+#!/bin/bash
+python genconfig.py
+python cars.py -n BMW -p 30 15 250 20 200 -u 0x4675095bA079bCE2B1fd4757802Ac3a568a45CA9 -q 10 -c '0xd584142Da2e3630e7B0c417E65bED1D70A91490A' -k 0x125726ebc6d62fdd07056dbb388f3cef7598f64f7acfdaaa57e5b9d9472fe016
