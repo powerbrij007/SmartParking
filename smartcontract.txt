@@ -1,0 +1,40 @@
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      1709736256455
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_initial_migration.js
+======================
+
+   Replacing 'smartParking'
+   ------------------------
+   > transaction hash:    0x3259e421db6d0369ce125ea28e570d0c1ad70defbf273e0effe91f8d319d5e30
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xd584142Da2e3630e7B0c417E65bED1D70A91490A
+   > block number:        5
+   > block timestamp:     1709736281
+   > account:             0x5B68680B1e4E8cC0fAC8CAd2Fc2A03c5dE1061Ce
+   > balance:             999.985817769359209988
+   > gas used:            2320988 (0x236a5c)
+   > gas price:           3.024246608 gwei
+   > value sent:          0 ETH
+   > total cost:          0.007019240086208704 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.007019240086208704 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.007019240086208704 ETH
+
+

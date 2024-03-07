@@ -1,0 +1,2 @@
+#!/bin/bash
+python SmartParking.py -z 30 -p 10 -e 200 -s 200 -u 0x5B68680B1e4E8cC0fAC8CAd2Fc2A03c5dE1061Ce -n 10 -c '0xd584142Da2e3630e7B0c417E65bED1D70A91490A' -k 0x637df03a71f46aa6f07977dbc84bba7452d1e358a497de8d019c70ace08fbb3f

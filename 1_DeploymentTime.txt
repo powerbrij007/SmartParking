@@ -1,0 +1,128 @@
+
+Execution time was 5684340015 nanoseconds.
+
+ Nodes:6
+Execution time was 5865595713 nanoseconds.
+
+Execution time was 5724600787 nanoseconds.
+
+ Nodes:5
+Execution time was 5741050460 nanoseconds.
+
+ Nodes:8
+Execution time was 5622997079 nanoseconds.
+
+ Nodes:8
+Execution time was 5734458998 nanoseconds.
+
+ Nodes:8
+Execution time was 5672805716 nanoseconds.
+
+ Nodes:10
+Execution time was 5838095464 nanoseconds.
+
+ Nodes:20
+Execution time was 5807984975 nanoseconds.
+
+ Nodes:30
+Execution time was 6448323978 nanoseconds.
+
+ Nodes:40
+Execution time was 6109862484 nanoseconds.
+
+ Nodes:50
+Execution time was 5882169433 nanoseconds.
+
+ Nodes:70
+Execution time was 6068505125 nanoseconds.
+
+ Nodes:80
+Execution time was 6213064049 nanoseconds.
+
+ Nodes:90
+Execution time was 6169385607 nanoseconds.
+
+ Nodes:100
+Execution time was 5607156501 nanoseconds.
+
+ Nodes:40
+Execution time was 5554658070 nanoseconds.
+
+ Nodes:10
+Execution time was 5993746923 nanoseconds.
+
+ Nodes:20
+Execution time was 6161808277 nanoseconds.
+
+ Nodes:30
+Execution time was 5721669049 nanoseconds.
+
+ Nodes:6
+Execution time was 6124371071 nanoseconds.
+
+ Nodes:20
+Execution time was 6034396100 nanoseconds.
+
+ Nodes:12
+Execution time was 5801003177 nanoseconds.
+
+ Nodes:15
+Execution time was 5692552692 nanoseconds.
+
+ Nodes:15
+Execution time was 5731047382 nanoseconds.
+
+ Nodes:20
+Execution time was 7483923824 nanoseconds.
+
+ Nodes:10
+Execution time was 7737393405 nanoseconds.
+
+ Nodes:20
+Execution time was 7846034864 nanoseconds.
+
+ Nodes:30
+Execution time was 8489111833 nanoseconds.
+
+ Nodes:40
+Execution time was 7478301556 nanoseconds.
+
+ Nodes:50
+Execution time was 7850823545 nanoseconds.
+
+ Nodes:60
+Execution time was 7490556023 nanoseconds.
+
+ Nodes:70
+Execution time was 8394377981 nanoseconds.
+
+Execution time was 7437052578 nanoseconds.
+
+ Nodes:90
+Execution time was 8443827471 nanoseconds.
+
+ Nodes:100
+Execution time was 7517411435 nanoseconds.
+
+ Nodes:70
+Execution time was 7455285248 nanoseconds.
+
+ Nodes:80
+Execution time was 7527505907 nanoseconds.
+
+ Nodes:90
+Execution time was 6056687770 nanoseconds.
+
+ Nodes:100
+Execution time was 6187056703 nanoseconds.
+
+ Nodes:6
+Execution time was 6078077436 nanoseconds.
+
+ Nodes:6
+Execution time was 6086171045 nanoseconds.
+
+ Nodes:6
+Execution time was 5928636529 nanoseconds.
+
+ Nodes:10
